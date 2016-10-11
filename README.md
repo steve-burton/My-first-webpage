@@ -1,12 +1,12 @@
-# _{My first webpage}_
+# _My first webpage_
 
-#### _{An exercise using HTML and Git repository}, {10-11-2016}_
+#### _An exercise using HTML and Git repository, 10-11-2016_
 
-#### By _**{By Steve Burton Anne Belka}**_
+#### By _**By Steve Burton Anne Belka**_
 
 ## Description
 
-_{This is a basic webpage to practice HTML and Git}_
+_This is a basic webpage to practice HTML and Git_
 
 ## Setup/Installation Requirements
 
@@ -20,6 +20,6 @@ _{This is a basic webpage to practice HTML and Git}_
 
 ### License
 
-*{This software is licensed under the MIT license.}*
+*This software is licensed under the MIT license.*
 
-Copyright (c) 2016 **_{Steve Burton, Anne Belka}_**
+Copyright (c) 2016 **_Steve Burton, Anne Belka_**
